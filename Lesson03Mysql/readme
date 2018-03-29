@@ -1,0 +1,5 @@
+操作mysql需要引入驱动
+_ "github.com/Go-SQL-Driver/MySQL"
+首先要在命令行使用
+go get github.com/Go-SQL-Driver/MySQL
+下载包
